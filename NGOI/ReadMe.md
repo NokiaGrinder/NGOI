@@ -44,3 +44,13 @@ Newly borned cells are the color of the RGB average of its parents ((p1+p2+p3)/3
 RUN FILE RunGame.py TO RUN THE GAME LOLLLLLL.
 
 MAKE SURE TO DOWNLOAD ALL FILES AND KEEP THEM IN THEIR RESPECTIVE FOLDER.
+
+
+INSTALLATION
+
+1. Install pyray
+2. Install raylib
+4. Install os
+5. Install time
+
+All the libraries needed.
